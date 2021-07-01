@@ -16,10 +16,9 @@ This app utilizes command-line node script.js
 
 
 ## Usage
-We need all the modules in order to get the data base (mysql), inquirer allows interactions for the database questions, 
-and console table allows interactions on the screen to see how see on the screen. 
-Sets up connection to MySQL table define the connection for the database with password, username and database name using mysql module using the connections
-the arguments meaning the host which is 3600, the user is root eventhough we can change the user and of course we need the password.
+We need all the modules in order to get the data base (mysql). Inquirer allows interactions for the database questions, 
+and console table allows interactions to see how looks on the screen. 
+
 
 ![Screenshot (189)](https://user-images.githubusercontent.com/80322588/124055205-194cc100-d9e9-11eb-8097-656622d9f007.png)
 ![Screenshot (190)](https://user-images.githubusercontent.com/80322588/124055218-1e117500-d9e9-11eb-976b-efde8e47ce62.png)
